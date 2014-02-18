@@ -1,4 +1,4 @@
 pomelo-rpc-zeromq
 =================
 
-pomelo rpc using zeromq for communication
+zeromq for pomeo-rpc
