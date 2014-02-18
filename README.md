@@ -1,8 +1,6 @@
 pomelo-rpc-zeromq
 =================
 
-#pomelo-rpc-zeromq - rpc framework for pomelo
-
 pomelo-rpc-zeromq is the low level RPC framework for pomelo project. It contains two parts: client and server.
 
 The client part generates the RPC client proxy, routes the message to the appropriate remote server and manages the network communications. Support add proxies and remote server information dynamically.
